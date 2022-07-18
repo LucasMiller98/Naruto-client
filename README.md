@@ -1,4 +1,4 @@
-#Install
+# Install
 
 Clone this repository and install it dependencies with this command:
 
@@ -8,7 +8,7 @@ or
 
 $ yarn
 
-#Running
+# Running
 
 Run the application with npm start or yarn start command, it will start the app on localhost:3000:
 
